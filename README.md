@@ -1,7 +1,7 @@
 ### Hi there 👋,
 <hr>
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 I am Caleb Amao a.k.a CJAY (Call me "Dolabomi" if you want to be my very good friend).
