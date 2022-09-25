@@ -1,10 +1,15 @@
 ### Hi there 👋,
 <hr>
-<h6>I am Caleb Amao a.k.a CJAY (Call me <strong>"Dolabomi"</strong> if you want to be my very good friend, )</h6>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
-I am a frontend software engineer experienced in delivering engaging and visually compelling applications with user-friendly interactions that improves UX
+
+I am Caleb Amao a.k.a CJAY (Call me "Dolabomi" if you want to be my very good friend).
+
+I love breathing life into designs and turning them into functional software using using improved code practices. I mostly work with JavaScript, React, Next.JS, Typescript and just about anything else that is needed to get the job done. Recently I have also been playing around with PHP and Laravel.  
+
+I currently work as a Frontend Web Developer at EnnovateLab, which is an innovation hub that serves as a point of convergence for talents in the tech and entrepreneural spaces, within underserved university communities in Africa. 
+
 
 <!--
 **caleb-ola/caleb-ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
