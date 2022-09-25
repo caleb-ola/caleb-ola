@@ -1,4 +1,6 @@
-### Hi, I am Caleb 👋
+### Hi there 👋,
+<hr>
+<h6>I am Caleb Amao a.k.a CJAY (Call me <strong>"Dolabomi"</strong> if you want to be my very good friend, )</h6>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
