@@ -6,7 +6,7 @@
 
 I am Caleb Amao a.k.a CJAY (Call me "Dolabomi" if you want to be my very good friend).
 
-I enjoy breathing life into designs and turning them into functional software using using improved code practices, thereby crafting useful and usable products. I am well experienced in delivering engaging and visually compelling applications with user-friendly interactions that improves UX. I mostly work with JavaScript, React, Next.JS, Typescript and just about anything else that is needed to get the job done. Recently I have also been playing around with PHP and Laravel.  
+I enjoy breathing life into designs and turning them into functional software using using improved code practices, thereby crafting useful and usable products. I mostly work with JavaScript, React, Next.JS, Typescript and just about anything else that is needed to get the job done. Recently I have also been playing around with PHP and Laravel.  
 
 I currently work as a Frontend Web Developer at EnnovateLab, which is an innovation hub that serves as a point of convergence for talents in the tech and entrepreneural spaces, within underserved university communities in Africa. 
 
