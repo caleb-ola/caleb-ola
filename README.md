@@ -48,8 +48,9 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
-
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
