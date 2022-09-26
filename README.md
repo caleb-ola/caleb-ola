@@ -39,7 +39,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 </div>
 <hr>
 ### :fire: My Stats :
-<div align="center>
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caleb-ola&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
