@@ -45,7 +45,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 ### :fire: My Github Stats
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=dark" />
+    <source media="(prefers-color-scheme: highcontrast)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 
