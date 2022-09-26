@@ -39,9 +39,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 </div>
 <hr>
 <h5>My Github Stats</h5>
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caleb-ola&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
+https://github-readme-streak-stats.herokuapp.com/?user=caleb-ola
 
 
 
