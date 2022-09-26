@@ -39,10 +39,10 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 </div>
 <hr>
 <h5>My Github Stats</h5>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caleb-ola&theme=highcontrast&hide_border=true&border_radius=4)](https://git.io/streak-stats)
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
 
 
 
