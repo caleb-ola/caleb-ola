@@ -49,8 +49,9 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 
 
