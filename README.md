@@ -39,7 +39,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 </div>
 <hr>
 <h5>My Github Stats</h5>
-<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caleb-ola&theme=highcontrast&hide_border=true&border_radius=0.1)](https://git.io/streak-stats)" alt=""/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caleb-ola&theme=highcontrast&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
 
 
