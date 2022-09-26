@@ -53,7 +53,6 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
 </picture>
 </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
