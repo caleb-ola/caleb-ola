@@ -65,14 +65,6 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
 </picture>
 </div>
-    | .                                                                                                                                       | .                                                                                                                         |
-    |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-    | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
-
-
-
-
-
 
 <!--
 
