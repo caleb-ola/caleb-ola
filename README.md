@@ -48,9 +48,6 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 
 ### :fire: My Github Stats
 <div align="center">
-    | .                                                                                                                                       | .                                                                                                                         |
-    |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-    | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
@@ -60,7 +57,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
   ![](./profile-3d-contrib/profile-green-animate.svg)
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="auto"></img>
   <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
 </div>
 <div align="center">
 <picture>
@@ -68,6 +65,9 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
 </picture>
 </div>
+    | .                                                                                                                                       | .                                                                                                                         |
+    |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+    | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 
 
 
