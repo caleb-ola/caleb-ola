@@ -61,7 +61,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 <div align="center">
   <picture>
       <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caleb-ola&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=caleb-ola&show_icons=true&theme=highcontrast&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
