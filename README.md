@@ -54,6 +54,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
+    <img src="[https://streak-stats.demolab.com?user=caleb-ola&theme=default](https://github-readme-stats.vercel.app/api?username=caleb-ola&show_icons=true&theme=radical&include_all_commits=true)" />
 </picture>
 </div>
 <div align="center">
