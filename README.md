@@ -48,19 +48,19 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 
 ### :fire: My Github Stats
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
-    <img src="[https://streak-stats.demolab.com?user=caleb-ola&theme=default](https://github-readme-stats.vercel.app/api?username=caleb-ola&show_icons=true&theme=radical&include_all_commits=true)" />
-    <img src="./profile-3d-contrib/profile-green-animate.svg" width="auto"></img>
-</picture>
-
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
+      <img src="[https://streak-stats.demolab.com?user=caleb-ola&theme=default](https://github-readme-stats.vercel.app/api?username=caleb-ola&show_icons=true&theme=radical&include_all_commits=true)" />
+      <img src="./profile-3d-contrib/profile-green-animate.svg" width="auto"></img>
+  </picture>
 </div>
+
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
-</picture>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </div>
 
 <!--
