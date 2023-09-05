@@ -48,11 +48,11 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 
 ### :fire: My Github Stats
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
     | .                                                                                                                                       | .                                                                                                                         |
     |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
     | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
 </picture>
 </div>
