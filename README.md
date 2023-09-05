@@ -56,11 +56,15 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 
 <div align="center">
   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
+  </picture>
+  <div align="center">
+  <picture>
       <source
       srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
       />
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=vision-friendly-dark&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-ola&layout=compact&theme=default&hide_border=true" />
   </picture>
 </div>
