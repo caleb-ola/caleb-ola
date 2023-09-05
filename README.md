@@ -51,7 +51,6 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
       <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
-<!--       <img src="./profile-3d-contrib/profile-green-animate.svg" width="auto"></img> -->
   </picture>
 </div>
 
