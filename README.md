@@ -56,6 +56,8 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
     <img src="[https://streak-stats.demolab.com?user=caleb-ola&theme=default](https://github-readme-stats.vercel.app/api?username=caleb-ola&show_icons=true&theme=radical&include_all_commits=true)" />
 </picture>
+  <!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
 </div>
 <div align="center">
 <picture>
