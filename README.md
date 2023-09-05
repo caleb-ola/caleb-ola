@@ -4,6 +4,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Caleb+Amao;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Passionate+about+crafting+products+that+meets+specific-user+needs;Software+engineering+User+Interface+enthusiast;)](https://git.io/typing-svg)
+
+
 I am Caleb Amao a.k.a CJAY (Call me "Dolabomi" if you want to be my very good friend).
 
 I enjoy breathing life into designs and turning them into functional software using using improved code practices, thereby crafting useful and usable products. I mostly work with JavaScript, React, Next.JS, Typescript and just about anything else that is needed to get the job done. Recently I have also been playing around with PHP and Laravel.  
@@ -45,6 +50,9 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 <div align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
+    | .                                                                                                                                       | .                                                                                                                         |
+    |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+    | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
     <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
 </picture>
 </div>
