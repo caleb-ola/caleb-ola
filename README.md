@@ -13,7 +13,7 @@ I am Caleb Amao, my friends call me C JAY (Caleb Olajiire) (but you can Call me 
 
 I enjoy breathing life into designs and turning them into functional software using using improved code practices, thereby crafting useful and usable products. I mostly work with JavaScript, React, Next.JS, Typescript and just about anything else that is needed to get the job done. Recently I have also been playing around with React Native, Node.js, Express.js and MongoDB.  
 
-I currently work as a Frontend Web Developer at EnnovateLab, which is an innovation hub that serves as a point of convergence for talents in the tech and entrepreneural spaces, within underserved university communities in Africa. 
+I currently work as a Frontend Engineer at EnnovateLab, an innovation hub that serves as a point of convergence for talents in the tech and entrepreneural spaces, within underserved university communities in Africa. 
 
 If you'd love to collborate with or reach out to me, hit me up on any of my socials!
 
