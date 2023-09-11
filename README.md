@@ -50,7 +50,8 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 ### :fire: My Github Stats
 <div align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caleb-ola&theme=highcontrast&hide_border=true" 
+         media="(prefers-color-scheme: dark)"/>
       <img src="https://streak-stats.demolab.com?user=caleb-ola&theme=default" />
   </picture>
 </div>
