@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Caleb+Amao;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Passionate+about+crafting+products;Software+engineering+and+User+Interface+enthusiast;)](https://git.io/typing-svg)
 
 
-I am Caleb Amao, my friends call me C JAY(Caleb Olajiire) (but you can Call me "Dolabomi" if you want to be my very good friend).
+I am Caleb Amao, my friends call me C JAY (Caleb Olajiire) (but you can Call me "Dolabomi" if you want to be my very good friend).
 
 I enjoy breathing life into designs and turning them into functional software using using improved code practices, thereby crafting useful and usable products. I mostly work with JavaScript, React, Next.JS, Typescript and just about anything else that is needed to get the job done. Recently I have also been playing around with React Native, Node.js, Express.js and MongoDB.  
 
