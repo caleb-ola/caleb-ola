@@ -46,6 +46,12 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 </div>
 <hr/>
 
+- 🌱 I’m currently learning ...
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="React-native" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
+<hr/>
+
 
 ### :fire: My Github Stats
 <div align="center">
