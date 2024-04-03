@@ -11,10 +11,10 @@
 
 🎉 Caleb Amao here, but you can call me CJ (or 'Dolabomi' if you're gunning to be my very good friend)! 
 
-💥 As a Full Stack Software Engineer, I'm not just about crafting solutions – I'm all about concocting mind-blowing, revolutionary creations that leave jaws on the floor and minds racing! 
-🚀 Picture this: bringing designs to life with code so slick it practically sings, all while sprinkling in the kind of magic that makes users jump for joy! 
-💫 My tech arsenal? Oh, it's a treasure trove: JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB and just about anything else needed to get the job done.
-💪 But wait, there's more! Lately, I've been on an adrenaline-fueled ride through React Native, Docker, and Kubernetes – because why stick to the ordinary when you can chase the extraordinary? 
+💥 As a Full Stack Software Engineer, I'm not just about crafting solutions – I'm all about concocting mind-blowing, revolutionary creations that leave jaws on the floor and minds racing! <br>
+🚀 Picture this: bringing designs to life with code so slick it practically sings, all while sprinkling in the kind of magic that makes users jump for joy! <br>
+💫 My tech arsenal? Oh, it's a treasure trove: JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB and just about anything else needed to get the job done. <br>
+💪 But wait, there's more! Lately, I've been on an adrenaline-fueled ride through React Native, Docker, and Kubernetes – because why stick to the ordinary when you can chase the extraordinary? <br>
 🌟 So if you're ready to join me on this electrifying journey or just want to geek out over tech, hit me up on any of my socials! Together, we'll unleash the unimaginable and redefine what's possible! 🚀✨
 
 <div id="badges" align="center">
