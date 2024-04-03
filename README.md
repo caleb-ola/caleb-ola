@@ -9,7 +9,7 @@
 <!--   my-ticker -->    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Caleb+Amao;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Passionate+about+crafting+products;Software+engineering+and+User+Interface+enthusiast;)](https://git.io/typing-svg) -->
 
-🎉 Caleb Amao here, but you can call me CJ (or 'Dolabomi' if you're gunning for BFF status)! 
+🎉 Caleb Amao here, but you can call me CJ (or 'Dolabomi' if you're gunning to be my very good friend)! 
 
 💥 As a Full Stack Software Engineer, I'm not just about crafting solutions – I'm all about concocting mind-blowing, revolutionary creations that leave jaws on the floor and minds racing! 
 🚀 Picture this: bringing designs to life with code so slick it practically sings, all while sprinkling in the kind of magic that makes users jump for joy! 
