@@ -9,11 +9,13 @@
 <!--   my-ticker -->    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Caleb+Amao;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Passionate+about+crafting+products;Software+engineering+and+User+Interface+enthusiast;)](https://git.io/typing-svg) -->
 
-I am Caleb Amao, my friends call me CJ (but you can Call me "Dolabomi" if you want to be my very good friend).
+🎉 Caleb Amao here, but you can call me CJ (or 'Dolabomi' if you're gunning for BFF status)! 
 
-I am a Full stack software engineer with a focus on crafting innovative solutions that are useful and usable. While I enjoy breathing life into designs and turning them into functional software using using improved code practices and also working across cross-functional teams, I mostly work with JavaScript, Typescript, React.js, Next.js, Node.js, Express.js and MongoDB, and just about anything else that is needed to get the job done. Recently I have also been playing around with React Native, Docker and Kubernetes.  
-
-If you'd love to collaborate with or reach out to me, hit me up on any of my socials!
+💥 As a Full Stack Software Engineer, I'm not just about crafting solutions – I'm all about concocting mind-blowing, revolutionary creations that leave jaws on the floor and minds racing! 
+🚀 Picture this: bringing designs to life with code so slick it practically sings, all while sprinkling in the kind of magic that makes users jump for joy! 
+💫 My tech arsenal? Oh, it's a treasure trove: JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB and just about anything else needed to get the job done.
+💪 But wait, there's more! Lately, I've been on an adrenaline-fueled ride through React Native, Docker, and Kubernetes – because why stick to the ordinary when you can chase the extraordinary? 
+🌟 So if you're ready to join me on this electrifying journey or just want to geek out over tech, hit me up on any of my socials! Together, we'll unleash the unimaginable and redefine what's possible! 🚀✨
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/caleb-amao-8a82401b8/" target="_blank">
