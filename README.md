@@ -11,7 +11,7 @@
 
 I am Caleb Amao, my friends call me CJ (but you can Call me "Dolabomi" if you want to be my very good friend).
 
-I am a Full stack software engineer with a focus on crafting innovative solutions that are useful and usable. While I enjoy breathing life into designs and turning them into functional software using using improved code practices and also working across cross-functional teams, I mostly work with HTML, CSS, JavaScript, Typescript, React.js, Next.js, Node.js, Express.js and MongoDB, and just about anything else that is needed to get the job done. Recently I have also been playing around with React Native.  
+I am a Full stack software engineer with a focus on crafting innovative solutions that are useful and usable. While I enjoy breathing life into designs and turning them into functional software using using improved code practices and also working across cross-functional teams, I mostly work with JavaScript, Typescript, React.js, Next.js, Node.js, Express.js and MongoDB, and just about anything else that is needed to get the job done. Recently I have also been playing around with React Native, Docker and Kubernetes.  
 
 If you'd love to collaborate with or reach out to me, hit me up on any of my socials!
 
